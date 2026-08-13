@@ -27,9 +27,9 @@ One portal that aggregates data from your applications, systems and people — t
         <img src="https://img.shields.io/badge/Logs%20%26%20metrics-60A5FA?style=flat-square&labelColor=60A5FA"/>
         <img src="https://img.shields.io/badge/Anomaly%20detection-60A5FA?style=flat-square&labelColor=60A5FA"/>
       </p>
-      <p><img src="./pixlglass-glyph.svg" width="22" align="absmiddle" alt=""/>&nbsp; <font size="5"><b>pixlGlass</b></font>&nbsp;&nbsp;<img src="./pixlglass-tagline.svg" height="12" align="absmiddle" alt="Observability"/></p>
+      <p><img src="./assets/pixlglass-glyph.svg" width="22" align="absmiddle" alt=""/>&nbsp; <font size="5"><b>pixlGlass</b></font>&nbsp;&nbsp;<img src="./assets/pixlglass-tagline.svg" height="12" align="absmiddle" alt="Observability"/></p>
       <p>Every error, warning and anomaly across your fleet — correlated, searchable, and streamed in real time.</p>
-      <p><a href="https://pixlforge.cloud/#products">Learn more →</a></p>
+      <p><a href="https://pixlforge.cloud/#products">Learn more</a> →</p>
     </td>
     <td width="50%" valign="top" align="left">
       <p align="right">
@@ -37,9 +37,9 @@ One portal that aggregates data from your applications, systems and people — t
         <img src="https://img.shields.io/badge/Billing-A78BFA?style=flat-square&labelColor=A78BFA"/>
         <img src="https://img.shields.io/badge/Identity%20%26%20seats-A78BFA?style=flat-square&labelColor=A78BFA"/>
       </p>
-      <p><img src="./pixlforge-glyph.svg" width="22" align="absmiddle" alt=""/>&nbsp; <font size="5"><b>pixlForge</b></font>&nbsp;&nbsp;<img src="./pixlforge-tagline.svg" height="12" align="absmiddle" alt="Platform & Billing"/></p>
+      <p><img src="./assets/pixlforge-glyph.svg" width="22" align="absmiddle" alt=""/>&nbsp; <font size="5"><b>pixlForge</b></font>&nbsp;&nbsp;<img src="./assets/pixlforge-tagline.svg" height="12" align="absmiddle" alt="Platform & Billing"/></p>
       <p>The core that provisions apps, manages seats, and rolls every app's metrics into one command view.</p>
-      <p><a href="https://pixlforge.cloud/#products">Learn more →</a></p>
+      <p><a href="https://pixlforge.cloud/#products">Learn more</a> →</p>
     </td>
   </tr>
   <tr>
@@ -49,9 +49,9 @@ One portal that aggregates data from your applications, systems and people — t
         <img src="https://img.shields.io/badge/Workflows-A78BFA?style=flat-square&labelColor=A78BFA"/>
         <img src="https://img.shields.io/badge/Contextual%20data-A78BFA?style=flat-square&labelColor=A78BFA"/>
       </p>
-      <p><img src="./pixlnotes-glyph.svg" width="22" align="absmiddle" alt=""/>&nbsp; <font size="5"><b>pixlNotes</b></font>&nbsp;&nbsp;<img src="./pixlnotes-tagline.svg" height="12" align="absmiddle" alt="Work & Knowledge"/></p>
+      <p><img src="./assets/pixlnotes-glyph.svg" width="22" align="absmiddle" alt=""/>&nbsp; <font size="5"><b>pixlNotes</b></font>&nbsp;&nbsp;<img src="./assets/pixlnotes-tagline.svg" height="12" align="absmiddle" alt="Work & Knowledge"/></p>
       <p>Kanban, projects and workflows that link straight to your operational data — context, not just cards.</p>
-      <p><a href="https://pixlforge.cloud/#products">Learn more →</a></p>
+      <p><a href="https://pixlforge.cloud/#products">Learn more</a> →</p>
     </td>
     <td width="50%" valign="top" align="left">
       <p align="right">
@@ -59,9 +59,9 @@ One portal that aggregates data from your applications, systems and people — t
         <img src="https://img.shields.io/badge/Agentic%20AI-FB923C?style=flat-square&labelColor=FB923C"/>
         <img src="https://img.shields.io/badge/Automation-FB923C?style=flat-square&labelColor=FB923C"/>
       </p>
-      <p><img src="./pixlagent-glyph.svg" width="22" align="absmiddle" alt=""/>&nbsp; <font size="5"><b>pixlAgent</b></font>&nbsp;&nbsp;<img src="./pixlagent-tagline.svg" height="12" align="absmiddle" alt="Reasoning Layer"/></p>
+      <p><img src="./assets/pixlagent-glyph.svg" width="22" align="absmiddle" alt=""/>&nbsp; <font size="5"><b>pixlAgent</b></font>&nbsp;&nbsp;<img src="./assets/pixlagent-tagline.svg" height="12" align="absmiddle" alt="Reasoning Layer"/></p>
       <p>A Claude-powered agent that reads across the suite, explains anomalies, and takes pre-approved actions on your behalf.</p>
-      <p><a href="https://pixlforge.cloud/#products">Learn more →</a></p>
+      <p><a href="https://pixlforge.cloud/#products">Learn more</a> →</p>
     </td>
   </tr>
 </table>
