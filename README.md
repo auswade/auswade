@@ -1,13 +1,13 @@
 <h1 align="center">Wade Hextell</h1>
 
 <p align="center">
-  Product Owner &amp; builder · Melbourne, Australia<br/>
-  Software dev turned PO. I ship things — for clients by day, for myself at <b>PIXLFORGE</b>.
+  Product Owner · Melbourne, Australia<br/>
+  Developer turned PO, I ship things for businesses by day, for myself at <b>PIXLFORGE.CLOUD</b>
 </p>
 
 <p align="center">
-  <a href="https://pixlforge.cloud"><img alt="PixlForge" src="https://img.shields.io/badge/pixlforge.cloud-A78BFA?style=for-the-badge&labelColor=A78BFA&logoWidth=16&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjIgMiAyMCAyMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTIxIDhhMiAyIDAgMCAwLTEtMS43M2wtNy00YTIgMiAwIDAgMC0yIDBsLTcgNEEyIDIgMCAwIDAgMyA4djhhMiAyIDAgMCAwIDEgMS43M2w3IDRhMiAyIDAgMCAwIDIgMGw3LTRBMiAyIDAgMCAwIDIxIDE2WiIvPjxwYXRoIGQ9Im0zLjMgNyA4LjcgNSA4LjctNSIvPjxwYXRoIGQ9Ik0xMiAyMlYxMiIvPjwvc3ZnPg=="></a>
-  <a href="https://www.linkedin.com/in/wadehextell/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&labelColor=0A66C2&logoWidth=16&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjIgMiAyMCAyMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTE2IDhhNiA2IDAgMCAxIDYgNnY3aC00di03YTIgMiAwIDAgMC0yLTIgMiAyIDAgMCAwLTIgMnY3aC00di03YTYgNiAwIDAgMSA2LTZ6Ii8+PHJlY3Qgd2lkdGg9IjQiIGhlaWdodD0iMTIiIHg9IjIiIHk9IjkiLz48Y2lyY2xlIGN4PSI0IiBjeT0iNCIgcj0iMiIvPjwvc3ZnPg=="></a>
+  <a href="https://pixlforge.cloud" target="_blank" rel="noopener noreferrer"><img alt="PixlForge" src="https://img.shields.io/badge/pixlforge.cloud-A78BFA?style=for-the-badge&labelColor=A78BFA&logoWidth=16&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjIgMiAyMCAyMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTIxIDhhMiAyIDAgMCAwLTEtMS43M2wtNy00YTIgMiAwIDAgMC0yIDBsLTcgNEEyIDIgMCAwIDAgMyA4djhhMiAyIDAgMCAwIDEgMS43M2w3IDRhMiAyIDAgMCAwIDIgMGw3LTRBMiAyIDAgMCAwIDIxIDE2WiIvPjxwYXRoIGQ9Im0zLjMgNyA4LjcgNSA4LjctNSIvPjxwYXRoIGQ9Ik0xMiAyMlYxMiIvPjwvc3ZnPg=="></a>
+  <a href="https://www.linkedin.com/in/wadehextell/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&labelColor=0A66C2&logoWidth=16&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjIgMiAyMCAyMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTE2IDhhNiA2IDAgMCAxIDYgNnY3aC00di03YTIgMiAwIDAgMC0yLTIgMiAyIDAgMCAwLTIgMnY3aC00di03YTYgNiAwIDAgMSA2LTZ6Ii8+PHJlY3Qgd2lkdGg9IjQiIGhlaWdodD0iMTIiIHg9IjIiIHk9IjkiLz48Y2lyY2xlIGN4PSI0IiBjeT0iNCIgcj0iMiIvPjwvc3ZnPg=="></a>
   <a href="mailto:wadehextell@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-24292F?style=for-the-badge&labelColor=24292F&logoWidth=16&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjIgMiAyMCAyMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHJlY3Qgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiB4PSIyIiB5PSI0IiByeD0iMiIvPjxwYXRoIGQ9Im0yMiA3LTguOTcgNS43YTEuOTQgMS45NCAwIDAgMS0yLjA2IDBMMiA3Ii8+PC9zdmc+"></a>
 </p>
 
@@ -29,7 +29,7 @@ One portal that aggregates data from your applications, systems and people — t
       </p>
       <p><img src="./assets/pixlglass-glyph.svg" width="22" align="absmiddle" alt=""/>&nbsp; <font size="5"><b>pixlGlass</b></font>&nbsp;&nbsp;<img src="./assets/pixlglass-tagline.svg" height="12" align="absmiddle" alt="Observability"/></p>
       <p>Every error, warning and anomaly across your fleet — correlated, searchable, and streamed in real time.</p>
-      <p><a href="https://pixlforge.cloud/#products">Learn more</a> →</p>
+      <p><a href="https://pixlforge.cloud/#products" target="_blank" rel="noopener noreferrer">Learn more</a> →</p>
     </td>
     <td width="50%" valign="top" align="left">
       <p align="right">
@@ -39,7 +39,7 @@ One portal that aggregates data from your applications, systems and people — t
       </p>
       <p><img src="./assets/pixlforge-glyph.svg" width="22" align="absmiddle" alt=""/>&nbsp; <font size="5"><b>pixlForge</b></font>&nbsp;&nbsp;<img src="./assets/pixlforge-tagline.svg" height="12" align="absmiddle" alt="Platform & Billing"/></p>
       <p>The core that provisions apps, manages seats, and rolls every app's metrics into one command view.</p>
-      <p><a href="https://pixlforge.cloud/#products">Learn more</a> →</p>
+      <p><a href="https://pixlforge.cloud/#products" target="_blank" rel="noopener noreferrer">Learn more</a> →</p>
     </td>
   </tr>
   <tr>
@@ -51,7 +51,7 @@ One portal that aggregates data from your applications, systems and people — t
       </p>
       <p><img src="./assets/pixlnotes-glyph.svg" width="22" align="absmiddle" alt=""/>&nbsp; <font size="5"><b>pixlNotes</b></font>&nbsp;&nbsp;<img src="./assets/pixlnotes-tagline.svg" height="12" align="absmiddle" alt="Work & Knowledge"/></p>
       <p>Kanban, projects and workflows that link straight to your operational data — context, not just cards.</p>
-      <p><a href="https://pixlforge.cloud/#products">Learn more</a> →</p>
+      <p><a href="https://pixlforge.cloud/#products" target="_blank" rel="noopener noreferrer">Learn more</a> →</p>
     </td>
     <td width="50%" valign="top" align="left">
       <p align="right">
@@ -61,7 +61,7 @@ One portal that aggregates data from your applications, systems and people — t
       </p>
       <p><img src="./assets/pixlagent-glyph.svg" width="22" align="absmiddle" alt=""/>&nbsp; <font size="5"><b>pixlAgent</b></font>&nbsp;&nbsp;<img src="./assets/pixlagent-tagline.svg" height="12" align="absmiddle" alt="Reasoning Layer"/></p>
       <p>A Claude-powered agent that reads across the suite, explains anomalies, and takes pre-approved actions on your behalf.</p>
-      <p><a href="https://pixlforge.cloud/#products">Learn more</a> →</p>
+      <p><a href="https://pixlforge.cloud/#products" target="_blank" rel="noopener noreferrer">Learn more</a> →</p>
     </td>
   </tr>
 </table>
