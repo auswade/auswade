@@ -1,8 +1,8 @@
 <h1 align="center">Wade Hextell</h1>
 
 <p align="center">
-  Product Owner · Melbourne, Australia<br/>
-  Developer turned PO, I ship things for businesses by day, for myself at <b>PIXLFORGE.CLOUD</b>
+  Product Owner &amp; Solution Builder · Melbourne, Australia<br/>
+  Developer turned PO, I ship things for businesses by day, for myself at <b>PIXLFORGE.CLOUD</b>.
 </p>
 
 <p align="center">
@@ -13,11 +13,13 @@
 
 ---
 
-## PIXLFORGE — Operations Portal
+## PIXLFORGE, Operations Portal
 
-One portal that aggregates data from your applications, systems and people — then turns it into live insight on performance, operations and success. Designed, built and run by me.
+One portal that aggregates data from your applications, systems and people, then turns it into live insight on performance, operations and success. Designed, built and run by me.
 
-> Purpose-built apps. One identity, one data fabric, one bill.
+> Purpose-built apps. One identity, one data fabric.
+
+<sub>Platform stack, unified data fabric · live observability · forecasts &amp; KPIs · rules-based automations · SSO, RBAC, audit trails, SOC 2 Type II.</sub>
 
 <table>
   <tr>
@@ -28,7 +30,7 @@ One portal that aggregates data from your applications, systems and people — t
         <img src="https://img.shields.io/badge/Anomaly%20detection-60A5FA?style=flat-square&labelColor=60A5FA"/>
       </p>
       <p><img src="./assets/pixlglass-glyph.svg" width="22" align="absmiddle" alt=""/>&nbsp; <font size="5"><b>pixlGlass</b></font>&nbsp;&nbsp;<img src="./assets/pixlglass-tagline.svg" height="12" align="absmiddle" alt="Observability"/></p>
-      <p>Every error, warning and anomaly across your fleet — correlated, searchable, and streamed in real time.</p>
+      <p>Every error, warning and anomaly across your fleet, correlated, searchable, and streamed in real time.</p>
       <p><a href="https://pixlforge.cloud/#products" target="_blank" rel="noopener noreferrer">Learn more</a> →</p>
     </td>
     <td width="50%" valign="top" align="left">
@@ -50,7 +52,7 @@ One portal that aggregates data from your applications, systems and people — t
         <img src="https://img.shields.io/badge/Contextual%20data-A78BFA?style=flat-square&labelColor=A78BFA"/>
       </p>
       <p><img src="./assets/pixlnotes-glyph.svg" width="22" align="absmiddle" alt=""/>&nbsp; <font size="5"><b>pixlNotes</b></font>&nbsp;&nbsp;<img src="./assets/pixlnotes-tagline.svg" height="12" align="absmiddle" alt="Work & Knowledge"/></p>
-      <p>Kanban, projects and workflows that link straight to your operational data — context, not just cards.</p>
+      <p>Kanban, projects and workflows that link straight to your operational data, context, not just cards.</p>
       <p><a href="https://pixlforge.cloud/#products" target="_blank" rel="noopener noreferrer">Learn more</a> →</p>
     </td>
     <td width="50%" valign="top" align="left">
@@ -66,21 +68,15 @@ One portal that aggregates data from your applications, systems and people — t
   </tr>
 </table>
 
-<sub>Platform stack — unified data fabric · live observability · forecasts &amp; KPIs · rules-based automations · SSO, RBAC, audit trails, SOC 2 Type II.</sub>
-
-> Source is private — happy to walk through architecture on request.
-
 ---
 
 ## Professional highlights
 
-Client code is private. Write-ups explain what I built, the outcome, and the interesting decisions.
-
 <details>
-<summary><b>Master Electricians Australia — CRM &amp; SSO Platform Migration</b> &nbsp;·&nbsp; Lead Digital PO · 2023–2026</summary>
+<summary><b>Master Electricians Australia, CRM &amp; SSO Platform Migration</b> &nbsp;·&nbsp; Lead Digital PO · 2023–2026</summary>
 <br/>
 
-Migrated CRM and unified authentication across six vendor platforms into a single member experience. Replaced the CRM, corporate website, security integrations, and custom software in a single architecture upgrade — on time, on budget, 99.999% uptime maintained. Stood up new automation and AI engagement layers on top.
+Migrated CRM and unified authentication across six vendor platforms into a single member experience. Replaced the CRM, corporate website, security integrations, and custom software in a single architecture upgrade, on time, on budget, 99.999% uptime maintained. Stood up new automation and AI engagement layers on top.
 
 <p>
   <img src="https://img.shields.io/badge/CRM-334155?style=flat-square"/>
@@ -92,10 +88,10 @@ Migrated CRM and unified authentication across six vendor platforms into a singl
 </details>
 
 <details>
-<summary><b>Suncorp — Car Damage Data Capture</b> &nbsp;·&nbsp; Lead Digital PO (contract) · 2021–2022</summary>
+<summary><b>Suncorp, Car Damage Data Capture</b> &nbsp;·&nbsp; Lead Digital PO (contract) · 2021–2022</summary>
 <br/>
 
-Identified, designed, and delivered a new data-capture solution for internal claims call centres. Cut up to 30s off damage-claim call times and saved Suncorp millions in operational cost. Also led the PO team redeveloping the online motor-claims UX — +6% digital-claims adoption and improved NPS across the Suncorp family of brands.
+Identified, designed, and delivered a new data-capture solution for internal claims call centres. Cut up to 30s off damage-claim call times and saved Suncorp millions in operational cost. Also led the PO team redeveloping the online motor-claims UX, +6% digital-claims adoption and improved NPS across the Suncorp family of brands.
 
 <p>
   <img src="https://img.shields.io/badge/Product%20discovery-334155?style=flat-square"/>
@@ -106,7 +102,7 @@ Identified, designed, and delivered a new data-capture solution for internal cla
 </details>
 
 <details>
-<summary><b>NewsCorp — news.com.au Platform &amp; Content Delivery</b> &nbsp;·&nbsp; Technical BA · 2019–2021</summary>
+<summary><b>NewsCorp, news.com.au Platform &amp; Content Delivery</b> &nbsp;·&nbsp; Technical BA · 2019–2021</summary>
 <br/>
 
 Held news.com.au and buysearchsell.com.au at 99.999% uptime across 50M+ monthly visits. Shipped Facebook Instant Articles + Google AMP integrations to unlock in-app subscriptions and paywall enforcement on external audience platforms. Built API-driven analytics that dropped a monthly 3-hour data pull down to minutes.
@@ -121,7 +117,7 @@ Held news.com.au and buysearchsell.com.au at 99.999% uptime across 50M+ monthly 
 </details>
 
 <details>
-<summary><b>Brace168 — Engineering Enablement &amp; SDLC Uplift</b> &nbsp;·&nbsp; Digital PO (contract) · 2022</summary>
+<summary><b>Brace168, Engineering Enablement &amp; SDLC Uplift</b> &nbsp;·&nbsp; Digital PO (contract) · 2022</summary>
 <br/>
 
 Onboarded a new external engineering team, upgraded the product tech stack to unblock delivery, and rebuilt the SDLC around Agile. Shipped a sandbox demo environment so Sales and Marketing could show the product without touching live data.
@@ -136,7 +132,7 @@ Onboarded a new external engineering team, upgraded the product tech stack to un
 
 ---
 
-## Toolbelt
+## Experience Toolbelt
 
 <table>
   <tr>
@@ -208,5 +204,5 @@ Onboarded a new external engineering team, upgraded the product tech stack to un
 ---
 
 <p align="center">
-  <sub><i>Open to Senior / Lead Product Owner and Product Manager roles — Melbourne, Sydney, or remote-AU.</i></sub>
+  <sub><i>Open to Senior / Lead Product Owner and Product Manager roles, Melbourne, Sydney, or remote-AU.</i></sub>
 </p>
