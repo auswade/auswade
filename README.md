@@ -66,6 +66,28 @@ One portal that aggregates data from your applications, systems and people, then
       <p><a href="https://pixlforge.cloud/#products" target="_blank" rel="noopener noreferrer">Learn more</a> →</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top" align="left">
+      <p align="right">
+        <img src="https://img.shields.io/badge/Rules%20engine-FBBF24?style=flat-square&labelColor=FBBF24"/>
+        <img src="https://img.shields.io/badge/Backtesting-FBBF24?style=flat-square&labelColor=FBBF24"/>
+        <img src="https://img.shields.io/badge/Live%20%26%20paper-FBBF24?style=flat-square&labelColor=FBBF24"/>
+      </p>
+      <p><img src="./assets/pixlbank-glyph.svg" width="22" align="absmiddle" alt=""/>&nbsp; <font size="5"><b>pixlBank</b></font>&nbsp;&nbsp;<img src="./assets/pixlbank-tagline.svg" height="12" align="absmiddle" alt="Markets &amp; Trading"/></p>
+      <p>Market data, pattern rules and forecasts that turn a strategy into automated, auditable trades.</p>
+      <p><a href="https://pixlforge.cloud/#products" target="_blank" rel="noopener noreferrer">Learn more</a> →</p>
+    </td>
+    <td width="50%" valign="top" align="left">
+      <p align="right">
+        <img src="https://img.shields.io/badge/Fleet%20deploys-4ADE80?style=flat-square&labelColor=4ADE80"/>
+        <img src="https://img.shields.io/badge/Versioning-4ADE80?style=flat-square&labelColor=4ADE80"/>
+        <img src="https://img.shields.io/badge/Health%20checks-4ADE80?style=flat-square&labelColor=4ADE80"/>
+      </p>
+      <p><img src="./assets/pixlghost-glyph.svg" width="22" align="absmiddle" alt=""/>&nbsp; <font size="5"><b>pixlGhost</b></font>&nbsp;&nbsp;<img src="./assets/pixlghost-tagline.svg" height="12" align="absmiddle" alt="Fleet &amp; Deploys"/></p>
+      <p>The release layer that builds, versions and health-checks every app across the fleet.</p>
+      <p><a href="https://pixlforge.cloud/#products" target="_blank" rel="noopener noreferrer">Learn more</a> →</p>
+    </td>
+  </tr>
 </table>
 
 ---
